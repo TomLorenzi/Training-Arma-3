@@ -1,0 +1,26 @@
+/* 
+	Author : Nirawin
+
+	Description : Description file
+*/
+
+class CfgMusic
+{
+    tracks[]={};
+ 
+    class Music1
+    {
+        name = "Music1";
+        sound[] = {"\nirawin\son\troll1.ogg", db+0, 1.0};
+    };
+    class Music2
+    {
+        name = "Music2";
+        sound[] = {"\nirawin\son\troll2.ogg", db+0, 1.0};
+    };
+    class Music3
+    {
+        name = "Music3";
+        sound[] = {"\nirawin\son\troll3.ogg", db+0, 1.0};
+    };
+};
